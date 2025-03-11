@@ -1,10 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function IAPrompt() {
+export default function IAPromptDeepSeek() {
   return (
     <View style={styles.container}>
-      <Text>Estas são as Inteligências Artificiais de Prompt</Text>
+      <Text>Esta é a IA de Prompt DeepSeek</Text>
       <StatusBar style="auto" />
     </View>
   );

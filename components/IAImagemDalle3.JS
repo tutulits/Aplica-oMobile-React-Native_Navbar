@@ -1,10 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function IAPrompt() {
+export default function IAImagemDalle3() {
   return (
     <View style={styles.container}>
-      <Text>Estas são as Inteligências Artificiais de Prompt</Text>
+      <Text>Esta é a IA Imagem de Dalle 3</Text>
       <StatusBar style="auto" />
     </View>
   );
